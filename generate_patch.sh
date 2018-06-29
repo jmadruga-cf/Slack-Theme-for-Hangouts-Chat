@@ -32,7 +32,7 @@ generateFiles() {
    mv electron.asar "$2/electron.asar"
 }
 
-generateFiles "https:\/\/raw.githubusercontent.com\/BaReinhard\/Slack-Theme-for-Hangouts-Chat\/quick-edit\/custom.css" "out/theme"
+generateFiles "localhost:1234" "out/theme"
 generateFiles "https:\/\/gist.githubusercontent.com\/devoxel\/359bacdd8d5a3600e10abfb56c21e6c3\/raw\/28f5c1644fcc99b86d2e742558e7bd7e4892b4eb\/emojifix.css" "out/emojisonly"
 
 rm -rf "$DIR" "$DEFAULTINIT" "$PLUGINGEN" "$PLUGINGEN2"

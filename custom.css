@@ -2,7 +2,7 @@
 /* Sidebar color */
 /* Primary */
 .X9KLPc {
-  background-color: #A50044 ;
+  background-color: rgb(255,252,0) ;
 }
 
 /* Secondary Background */
@@ -22,7 +22,7 @@
 .PL5Wwe:focus,
 .PL5Wwe:hover:not(.tuKyod),
 .tuKyod:hover .LoYJxb {
-  background-color: #A50044;
+  background-color: rgb(255,252,0);
   filter: brightness(85%);
   color: rgb(255,255,255) !important;
 }
@@ -54,13 +54,13 @@
 /* Sidebar search button hovering bg color */
 .GbZFNe:focus,
 .GbZFNe:hover {
-  background-color: #A50044;
+  background-color: rgb(255,252,0);
   filter: brightness(85%);
 }
 
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
-  background-color: #A50044;
+  background-color: rgb(255,252,0);
   margin-top: -4px;
   width: 100%;
   border-radius: 0px;
@@ -107,7 +107,7 @@
 /* Color */
 /* Top left corner section (with title) background color */
 .Riuhhf {
-  background-color: #A50044;
+  background-color: rgb(255,252,0);
 }
 
 /* Sidebar channels elements height */
@@ -313,4 +313,6 @@ img {
   min-width: auto;
 }
 
+
+/* AUTO GEN */
 
