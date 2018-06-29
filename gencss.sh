@@ -65,13 +65,12 @@ cat << EOT > ./custom.css
   filter: brightness(85%);
 }
 .GbZFNe{
-    background-color: rgb(0,0,0) !important;
+    background-color: $PRIMARY_COLOR !important;
 }
 
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
   background-color: $PRIMARY_COLOR;
-  filter: brightness(85%);
   margin-top: -4px;
   width: 100%;
   border-radius: 0px;
