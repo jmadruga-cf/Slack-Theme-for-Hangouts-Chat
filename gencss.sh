@@ -64,6 +64,9 @@ cat << EOT > ./custom.css
   background-color: $PRIMARY_COLOR;
   filter: brightness(85%);
 }
+.GbZFNe{
+    background-color: $PRIMARY_COLOR !important;
+}
 
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
