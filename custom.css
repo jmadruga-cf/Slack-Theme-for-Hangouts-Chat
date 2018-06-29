@@ -1,12 +1,12 @@
 /* Sidebar color */
 .X9KLPc {
-    background-color: rgb(4, 211, 166);
+    background-color: rgb(255,252, 0);
 }
 
 /* Active channel background color in sidebar*/
 .PL5Wwe.KKjvXb:not(.tuKyod),
 .PL5Wwe.qs41qe:not(.tuKyod) {
-    background-color: #A05DCD;
+    background-color: #02B790;
     color:black;
 }
 
@@ -18,13 +18,13 @@
 .PL5Wwe:focus,
 .PL5Wwe:hover:not(.tuKyod),
 .tuKyod:hover .LoYJxb {
-    background-color: #02B790;
-    color: white !important;
+    background-color: rgb(255,252,100);
+    color: black !important;
 }
 
 /* Sidebar elements text color for chans with unread messages */
 .PL5Wwe.H7du2 .t5F5nf {
-    color: #fff;
+    color: #000;
 }
 
 /* Sidebar "recent" or "starred" section names text size and color */
