@@ -19,8 +19,10 @@
 }
 /* Sidebar elemtents bg color when hovering */
 .PL5Wwe:focus,
-.PL5Wwe:hover/*:not(.tuKyod)*/,
-.tuKyod:focus,.tuKyod:hover .LoYJxb, .LoYJxb:focus {
+.PL5Wwe:hover:not(.tuKyod),
+.tuKyod:focus,
+.tuKyod:hover .LoYJxb,
+.LoYJxb:focus {
   background-color: #a50044;
   filter: brightness(85%);
   color: rgb(255, 255, 255) !important;
