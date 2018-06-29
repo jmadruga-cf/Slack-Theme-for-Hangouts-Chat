@@ -1,4 +1,4 @@
-PRIMARY_COLOR='rgb(255,252,0)'
+PRIMARY_COLOR='#A50044'
 SECONDARY_COLOR='#004D98'
 TEXT_COLOR='rgb(0,0,0)'
 HIGHLIGHT_TEXT_COLOR='rgb(255,255,255)'
@@ -68,6 +68,7 @@ cat << EOT > ./custom.css
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
   background-color: $PRIMARY_COLOR;
+  filter: brightness(85%);
   margin-top: -4px;
   width: 100%;
   border-radius: 0px;
