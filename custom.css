@@ -1,23 +1,25 @@
 /* Sidebar color */
 .X9KLPc {
-    background-color: #4d394b;
+    background-color: rgb(4, 211, 166);
 }
 
 /* Active channel background color in sidebar*/
 .PL5Wwe.KKjvXb:not(.tuKyod),
 .PL5Wwe.qs41qe:not(.tuKyod) {
-    background-color: #4C9689;
+    background-color: #A05DCD;
+    color:black;
 }
 
 /* Channel name color in sidebar */
 .t5F5nf {
-    color: rgb(202, 196, 201);
+    color: rgb(0, 0,0);
 }
 /* Sidebar elemtents bg color when hovering */
 .PL5Wwe:focus,
 .PL5Wwe:hover:not(.tuKyod),
 .tuKyod:hover .LoYJxb {
-    background-color: #3e313c;
+    background-color: #02B790;
+    color: white !important;
 }
 
 /* Sidebar elements text color for chans with unread messages */
@@ -27,27 +29,27 @@
 
 /* Sidebar "recent" or "starred" section names text size and color */
 .aOHsTc {
-    color: rgb(202, 196, 201);
+    color: rgb(0,0,0);
     font-size: 16px;
     margin-left: 16px;
 }
 
 /* Sidebar Search section text color */
 .HLTcjb {
-    color: rgb(202, 196, 201);
+    color: rgb(0, 0, 0);
 }
 .D3DXDc {
-    fill: rgb(202, 196, 201) !important;
+    fill: rgb(0, 0, 0) !important;
 }
 
 /* Sidebar search button hovering bg color */
 .GbZFNe:focus, .GbZFNe:hover {
-    background-color: #3e313c;
+    background-color: #02B790;
 }
 
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
-    background-color: #4d394b;
+    background-color: #02B790;
     margin-top: -4px;
     width: 100%;
     border-radius: 0px;
@@ -59,8 +61,9 @@
     color: #fff;
 }
 
+/* ????? */
 .ndJi5d {
-   rgba(0,0,0,0.38);
+   rgba(255,0,0,0.5);
 }
 
 /* Search Menu "frequent" section text color and size */
@@ -82,12 +85,12 @@
 /* Font color of active channel in sidebar */
 .PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf,
 .PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
-    color: #fff;
+    color: #000;
 }
 
 /* Top left corner section (with title) background color */
 .Riuhhf {
-    background-color: #4d394b;
+    background-color: rgb(4, 211, 166);
 }
 
 /* Sidebar channels elements height */
@@ -128,12 +131,12 @@
 
 /* Chat top left logo text color */
 #XMLID_8_-Clipped{
-    opacity: 0.8 !important;
-    fill: #fff !important;
+    opacity: 1 !important;
+    fill: #000 !important;
 }
 /* Time and menu buttons and clock for channels inactive and active colors */
 .sFuxxd {
-    color: rgb(202, 196, 201);
+    color: rgb(0, 0, 0);
 }
 .PL5Wwe.H7du2 .sFuxxd {
     color: #fff;
@@ -246,7 +249,7 @@ img {
     background-color: #f7f7f9;
     margin: 0px;
     padding: 1px 3px;
-    color: #d72b3f;
+    color: #02B790;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
