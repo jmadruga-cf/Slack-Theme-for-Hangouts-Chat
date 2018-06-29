@@ -36,7 +36,7 @@
 
 /* Sidebar Search section text color */
 .HLTcjb {
-    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0) !important;
 }
 .D3DXDc {
     fill: rgb(0, 0, 0) !important;
@@ -58,7 +58,7 @@
 
 /* Search menu text color */
 .Uk0Bfe .zHQkBf, .Uk0Bfe .snByac, .dQ2Tsf .NXfF8b, .dQ2Tsf .ZTmjQb {
-    color: #fff;
+    color: #000;
 }
 
 /* ????? */
