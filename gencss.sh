@@ -65,7 +65,7 @@ cat << EOT > ./custom.css
   filter: brightness(85%);
 }
 .GbZFNe{
-    background-color: $PRIMARY_COLOR !important;
+    background-color: rgb(0,0,0) !important;
 }
 
 /* Search Menu bg color, shape and dimensions */
