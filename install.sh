@@ -1,5 +1,5 @@
-PRIMARY_COLOR='#02b790'
-SECONDARY_COLOR='rgb(100,100,100)'
+PRIMARY_COLOR='#A50044'
+SECONDARY_COLOR='#004D98'
 TEXT_COLOR='rgb(0,0,0)'
 HIGHLIGHT_TEXT_COLOR='rgb(255,255,255)'
 
@@ -325,4 +325,4 @@ EOT
 
 
 
-#./generate_patch.sh /Applications/Chat.app/Contents/Resources/electron.asar_BACKUP emojis_example.json && cp out/theme/electron.asar /Applications/Chat.app/Contents/Resources/electron.asar && pkill Chat && sleep 1 && open /Applications/Chat.app --args -AppCommandLineArg
+./generate_patch.sh /Applications/Chat.app/Contents/Resources/electron.asar_BACKUP emojis_example.json && cp out/theme/electron.asar /Applications/Chat.app/Contents/Resources/electron.asar && pkill Chat && sleep 1 && open /Applications/Chat.app --args -AppCommandLineArg
