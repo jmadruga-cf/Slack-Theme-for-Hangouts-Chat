@@ -18,7 +18,7 @@
 .PL5Wwe:focus,
 .PL5Wwe:hover:not(.tuKyod),
 .tuKyod:hover .LoYJxb {
-    background-color: rgb(255,252,100);
+    background-color: rgb(215,212,0);
     color: black !important;
 }
 
@@ -44,12 +44,12 @@
 
 /* Sidebar search button hovering bg color */
 .GbZFNe:focus, .GbZFNe:hover {
-    background-color: #02B790;
+    background-color: rgb(215,212,0);
 }
 
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
-    background-color: #02B790;
+    background-color: rgb(255,252,0);
     margin-top: -4px;
     width: 100%;
     border-radius: 0px;
@@ -90,7 +90,7 @@
 
 /* Top left corner section (with title) background color */
 .Riuhhf {
-    background-color: rgb(4, 211, 166);
+    background-color: rgb(255, 252, 0);
 }
 
 /* Sidebar channels elements height */
