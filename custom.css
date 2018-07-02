@@ -1,119 +1,3 @@
-/* Sidebar color */
-/* Primary */
-.X9KLPc {
-  background-color: #a50044;
-}
-
-/* Secondary Background */
-/* Active channel background color in sidebar*/
-.PL5Wwe.KKjvXb:not(.tuKyod),
-.PL5Wwe.qs41qe:not(.tuKyod) {
-  background-color: #004d98;
-  color: black;
-}
-
-/* Text */
-/* Channel name color in sidebar */
-.t5F5nf {
-  color: rgb(0, 0, 0);
-}
-/* Sidebar elemtents bg color when hovering */
-.PL5Wwe:focus,
-.PL5Wwe:hover:not(.tuKyod),
-.tuKyod:focus,
-.tuKyod:hover .LoYJxb,
-.LoYJxb:focus {
-  background-color: #a50044;
-  filter: brightness(85%);
-  color: rgb(255, 255, 255) !important;
-}
-
-/* Text */
-/* Sidebar elements text color for chans with unread messages */
-.PL5Wwe.H7du2 .t5F5nf {
-  color: rgb(0, 0, 0);
-}
-
-/* Text */
-/* Sidebar "recent" or "starred" section names text size and color */
-.aOHsTc {
-  color: rgb(0, 0, 0);
-  font-size: 16px;
-  margin-left: 16px;
-}
-
-/* Text */
-/* Sidebar Search section text color */
-.HLTcjb {
-  color: rgb(0, 0, 0) !important;
-}
-.D3DXDc {
-  fill: rgb(0, 0, 0) !important;
-}
-
-/* Primary Color */
-/* Sidebar search button hovering bg color */
-.GbZFNe:focus,
-.GbZFNe:hover {
-  background-color: #a50044;
-  filter: brightness(85%);
-}
-.GbZFNe {
-  background-color: #a50044 !important;
-}
-
-/* Search Menu bg color, shape and dimensions */
-.yoV6yd {
-  background-color: #a50044;
-  margin-top: -4px;
-  width: 100%;
-  border-radius: 0px;
-  -moz-border-radius: 0px;
-}
-
-/* Text */
-/* Search menu text color */
-.Uk0Bfe .zHQkBf,
-.Uk0Bfe .snByac,
-.dQ2Tsf .NXfF8b,
-.dQ2Tsf .ZTmjQb {
-  color: #000;
-}
-
-/* ????? */
-/* .ndJi5d {
-   rgba(255,0,0,0.5);
-} */
-
-/* Search Menu "frequent" section text color and size */
-.wAR34c {
-  color: rgb(0, 0, 0);
-  font-size: 16px;
-}
-
-/* Search menu people list mail color */
-.Kfe2Ub {
-  color: rgb(0, 0, 0);
-}
-
-/* Quick search first element bg color */
-.dQ2Tsf[aria-selected="true"] {
-  background: transparent;
-}
-
-/* Highlight text */
-/* Font color of active channel in sidebar */
-.PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf,
-.PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
-  color: rgb(255, 255, 255) !important;
-}
-
-/* Color */
-/* Top left corner section (with title) background color */
-.Riuhhf {
-  background-color: #a50044;
-}
-
 /* Sidebar channels elements height */
 .LoYJxb {
   height: 26px;
@@ -152,32 +36,7 @@
   margin: 0px;
 }
 
-/* Text */
-/* Chat top left logo text color */
-#XMLID_8_-Clipped {
-  opacity: 1 !important;
-  fill: rgb(0, 0, 0) !important;
-}
-/* Text */
-/* Time and menu buttons and clock for channels inactive and active colors */
-.sFuxxd {
-  color: rgb(0, 0, 0);
-}
-.PL5Wwe.H7du2 .sFuxxd {
-  color: rgb(0, 0, 0);
-}
-.DQy0Rb {
-  fill: rgb(202, 196, 201) !important;
-}
-.PL5Wwe.H7du2 .DQy0Rb {
-  fill: #fff !important;
-}
-.QeRfYe {
-  fill: rgb(202, 196, 201) !important;
-}
-.PL5Wwe.H7du2 .QeRfYe {
-  fill: #fff !important;
-}
+
 /* Big emojis size */
 .Zc1Emd.NM3Nfc {
   font-size: 24px;
@@ -186,15 +45,6 @@
 img {
   border: none;
   font-size: 1.3em !important;
-}
-/* Highlight Text */
-/* White text color for selected channel name */
-.PL5Wwe.KKjvXb .t5F5nf,
-.PL5Wwe.KKjvXb .sFuxxd,
-.PL5Wwe.qs41qe .t5F5nf,
-.PL5Wwe.qs41qe .sFuxxd,
-.GSEpfc .t5F5nf {
-  color: rgb(255, 255, 255);
 }
 /* Reduce top and left margins in thread blocks */
 .GVSFtd {
