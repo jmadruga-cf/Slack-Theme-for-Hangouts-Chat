@@ -214,7 +214,9 @@ img {
 /* Time and menu buttons and clock for channels inactive and active colors */
 /* Time next to room */
 .sFuxxd {
-  color: rgb(0, 0, 0);
+  font-family: "Avenir Next" !important;
+  font-weight: 800 !important;
+  color: rgb(0, 0, 0) !important;
 }
 /* Time for Alerted Message aka Now next to red alert number */
 .PL5Wwe.H7du2 .sFuxxd {
