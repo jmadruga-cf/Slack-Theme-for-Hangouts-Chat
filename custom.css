@@ -177,7 +177,9 @@ img {
 }
 /* Top Left Text Color */
 #XMLID_8_-Clipped {
-  opacity: 0.8 !important;
+  font-family: "Avenir Next" !important;
+  font-weight: 800 !important;
+  /* opacity: 0.8 !important; */
   fill: black !important;
   font-family: cursive !important;
 }
