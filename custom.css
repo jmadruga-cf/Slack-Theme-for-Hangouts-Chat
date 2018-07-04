@@ -202,13 +202,14 @@ img {
 }
 
 /* Time and menu buttons and clock for channels inactive and active colors */
+/* Time next to room */
 .sFuxxd {
-  color: rgb(202, 0, 0);
+  color: rgb(0, 0, 0);
 }
-/* .PL5Wwe.H7du2 .sFuxxd {
-  color: #fff;
+.PL5Wwe.H7du2 .sFuxxd {
+  color: red;
 }
-.DQy0Rb {
+/*.DQy0Rb {
   fill: rgb(202, 196, 201) !important;
 }
 .PL5Wwe.H7du2 .DQy0Rb {
