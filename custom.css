@@ -210,8 +210,11 @@ img {
   color: rgb(0, 0, 0);
 }
 /* No Idea, more testing needed */
+/* Time for Alerted Message */
 .PL5Wwe.H7du2 .sFuxxd {
-  color: red;
+  color: black;
+  background-color: red;
+  font-weight: 800 !important;
 }
 /* No Idea, more testing needed */
 /* Alert Bell Next to Room!!! */
@@ -223,6 +226,7 @@ img {
   fill: rgb(255, 252, 0) !important;
 }
 
+/* The Triple Dots */
 .QeRfYe {
   fill: rgb(245, 14, 206) !important;
 }
