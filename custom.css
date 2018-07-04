@@ -210,13 +210,15 @@ img {
 .PL5Wwe.H7du2 .sFuxxd {
   color: red;
 }
+/* No Idea, more testing needed */
 .DQy0Rb {
-  fill: purple !important;
+  fill: rgb(159, 98, 238) !important;
+}
+
+.PL5Wwe.H7du2 .DQy0Rb {
+  fill: rgb(255, 252, 0) !important;
 }
 /*
-.PL5Wwe.H7du2 .DQy0Rb {
-  fill: #fff !important;
-}
 .QeRfYe {
   fill: rgb(202, 196, 201) !important;
 }
