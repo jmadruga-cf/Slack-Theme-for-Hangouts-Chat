@@ -180,6 +180,7 @@ img {
   font-family: "Avenir Next" !important;
   font-weight: 800 !important;
   /* opacity: 0.8 !important; */
+  background-color: #000 !important;
   fill: rgb(255, 252, 0) !important;
   /* font-family: cursive !important; */
 }
