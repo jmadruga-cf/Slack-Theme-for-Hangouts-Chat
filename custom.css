@@ -216,14 +216,12 @@ img {
 .sFuxxd {
   color: rgb(0, 0, 0);
 }
-/* No Idea, more testing needed */
-/* Time for Alerted Message */
+/* Time for Alerted Message aka Now next to red alert number */
 .PL5Wwe.H7du2 .sFuxxd {
   color: red;
   /* background-color: red; */
   font-weight: 800 !important;
 }
-/* No Idea, more testing needed */
 /* Alert Bell Next to Room!!! */
 .DQy0Rb {
   fill: #00897b !important;
@@ -238,6 +236,6 @@ img {
   fill: rgb(0, 0, 0) !important;
 }
 .PL5Wwe.H7du2 .QeRfYe {
-  padding: 200px;
-  fill: rgb(240, 51, 240) !important;
+  /* padding: 200px; */
+  fill: rgb(235, 238, 74) !important;
 }
