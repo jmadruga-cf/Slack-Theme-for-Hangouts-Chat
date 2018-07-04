@@ -177,7 +177,7 @@ img {
 .PL5Wwe.KKjvXb:not(.tuKyod),
 .PL5Wwe.qs41qe:not(.tuKyod) {
   background-color: rgba(243, 60, 87, 0.9);
-  border-radius: 15px 50px;
+  border-radius: 5px 15px;
 }
 
 /* Font color of active channel in sidebar */
@@ -189,13 +189,13 @@ img {
 }
 .PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf span,
 .PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf span {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
   font-weight: 700;
   color: #fff;
 }
 
+/* Room Names */
 /* Channel name color in sidebar */
 .t5F5nf {
   color: black;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
 }
