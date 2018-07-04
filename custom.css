@@ -198,7 +198,7 @@ img {
 /* Channel name color in sidebar */
 .t5F5nf {
   color: black;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
+  /* font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important; */
 }
 
 /* Time and menu buttons and clock for channels inactive and active colors */
@@ -207,7 +207,7 @@ img {
   color: rgb(0, 0, 0);
 }
 .PL5Wwe.H7du2 .sFuxxd {
-  color: purple;
+  color: red;
 }
 /*.DQy0Rb {
   fill: rgb(202, 196, 201) !important;
