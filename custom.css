@@ -1,5 +1,6 @@
 /* Sidebar channels elements height */
 .LoYJxb {
+  padding-top: 5px;
   height: 26px;
 }
 
@@ -17,8 +18,9 @@
 /* Draw white line between the sidebar sections and reduce padding */
 .PL5Wwe + .wJNchb,
 .teTAFe:not(.fXx9Lc) + .vHL80e .aOHsTc {
-  border-top: solid 1px #e0e0e0;
-  padding-top: 6px;
+  border-top: solid 1px #000;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 /* Vertically align triple dots buttons on
@@ -92,7 +94,7 @@ img {
 }
 /* Reduce space around "someone added someone" messages */
 .mCOR5e {
-  padding: 8px 0;
+  padding: 6px 0;
 }
 /* Prevent "new conversation" message from overlapping on the text */
 .pyNvz {
@@ -100,11 +102,12 @@ img {
 }
 /* Reduce space between thread blocks */
 .cZICLc {
-  margin-top: 6px;
+  margin-top: 4px;
 }
 /* Increase boldness of usenames in conversations */
 .Z4BnXb {
   font-weight: 900;
+  font-family: cursive !important;
 }
 /* Make code snippets look like slack's */
 .FMTudf {
