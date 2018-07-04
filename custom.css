@@ -1,28 +1,3 @@
-/* Side Channel Below Logo */
-.X9KLPc {
-  background-color: rgba(4, 166, 255, 0.7);
-}
-
-/* Side Channel Active Room */
-.PL5Wwe.KKjvXb:not(.tuKyod),
-.PL5Wwe.qs41qe:not(.tuKyod) {
-  background-color: rgba(243, 60, 87, 0.9);
-}
-
-/* Font color of active channel in sidebar */
-.PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf,
-.PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
-  color: #fff !important;
-  font-weight: 800 !important;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
-}
-.PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf span,
-.PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf span {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
-  font-weight: 700;
-  color: #fff;
-}
-
 /* Sidebar channels elements height */
 .LoYJxb {
   height: 26px;
@@ -192,3 +167,28 @@ img {
 }
 
 /* AUTO GEN */
+
+/* Side Channel Below Logo */
+.X9KLPc {
+  background-color: rgba(4, 166, 255, 0.7);
+}
+
+/* Side Channel Active Room */
+.PL5Wwe.KKjvXb:not(.tuKyod),
+.PL5Wwe.qs41qe:not(.tuKyod) {
+  background-color: rgba(243, 60, 87, 0.9);
+}
+
+/* Font color of active channel in sidebar */
+.PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf,
+.PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
+  color: #fff !important;
+  font-weight: 800 !important;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
+}
+.PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf span,
+.PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf span {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
+  font-weight: 700;
+  color: #fff;
+}
