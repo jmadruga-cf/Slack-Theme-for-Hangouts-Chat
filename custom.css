@@ -170,13 +170,14 @@ img {
 
 /* Side Channel Below Logo */
 .X9KLPc {
-  background-color: rgba(4, 166, 255, 0.7);
+  background-color: rgba(4, 166, 255, 0.8);
 }
 
 /* Side Channel Active Room */
 .PL5Wwe.KKjvXb:not(.tuKyod),
 .PL5Wwe.qs41qe:not(.tuKyod) {
   background-color: rgba(243, 60, 87, 0.9);
+  border-radius: 15px 50px;
 }
 
 /* Font color of active channel in sidebar */
