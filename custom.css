@@ -175,9 +175,11 @@ img {
 .X9KLPc {
   background-color: rgba(4, 166, 255, 0.8);
 }
+/* Top Left Text Color */
 #XMLID_8_-Clipped {
   opacity: 0.8 !important;
-  fill: pink !important;
+  fill: black !important;
+  font-family: cursive !important;
 }
 
 /* Side Channel Active Room */
