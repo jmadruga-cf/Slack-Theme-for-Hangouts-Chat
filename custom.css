@@ -12,7 +12,7 @@
 /* Font color of active channel in sidebar */
 .PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf,
 .PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
-  color: #fff;
+  color: #fff !important;
   font-weight: 800 !important;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
 }
