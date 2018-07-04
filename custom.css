@@ -6,15 +6,15 @@
 /* Side Channel Active Room */
 .PL5Wwe.KKjvXb:not(.tuKyod),
 .PL5Wwe.qs41qe:not(.tuKyod) {
-  background-color: rgba(243, 60, 87, 0.7);
+  background-color: rgba(243, 60, 87, 0.9);
 }
 
 /* Font color of active channel in sidebar */
 .PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf,
 .PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
   color: #fff;
-  font-weight: 800;
-  font-family: cursive;
+  font-weight: 800 !important;
+  font-family: cursive !important;
 }
 
 /* Sidebar channels elements height */
