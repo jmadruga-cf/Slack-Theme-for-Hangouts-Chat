@@ -186,7 +186,7 @@ img {
 .PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf {
   color: #fff !important;
   font-weight: 800 !important;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
+  font-family: "Times New Roman", Haettenschweiler, "Arial Narrow Bold", sans-serif !important;
 }
 .PL5Wwe.KKjvXb:not(.tuKyod) > .t5F5nf span,
 .PL5Wwe.qs41qe:not(.tuKyod) > .t5F5nf span {
@@ -206,12 +206,14 @@ img {
 .sFuxxd {
   color: rgb(0, 0, 0);
 }
+/* No Idea, more testing needed */
 .PL5Wwe.H7du2 .sFuxxd {
   color: red;
 }
-/*.DQy0Rb {
-  fill: rgb(202, 196, 201) !important;
+.DQy0Rb {
+  fill: purple !important;
 }
+/*
 .PL5Wwe.H7du2 .DQy0Rb {
   fill: #fff !important;
 }
