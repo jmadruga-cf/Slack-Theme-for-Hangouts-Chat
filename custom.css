@@ -193,3 +193,9 @@ img {
   font-weight: 700;
   color: #fff;
 }
+
+/* Channel name color in sidebar */
+.t5F5nf {
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
