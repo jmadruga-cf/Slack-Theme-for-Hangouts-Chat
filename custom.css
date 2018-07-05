@@ -181,7 +181,7 @@ img {
   font-weight: 800 !important;
   /* opacity: 0.8 !important; */
   background-color: #000 !important;
-  fill: rgb(255, 252, 0) !important;
+  fill: #02b790 !important;
   /* font-family: cursive !important; */
 }
 
@@ -223,13 +223,13 @@ img {
 }
 /* Time for Alerted Message aka Now next to red alert number */
 .PL5Wwe.H7du2 .sFuxxd {
-  color: red;
+  color: #f23c57;
   /* background-color: red; */
   font-weight: 800 !important;
 }
 /* Alert Bell Next to Room!!! */
 .DQy0Rb {
-  fill: #00897b !important;
+  fill: #f23c57 !important;
 }
 
 .PL5Wwe.H7du2 .DQy0Rb {
