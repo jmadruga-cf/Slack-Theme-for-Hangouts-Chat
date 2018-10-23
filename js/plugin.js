@@ -21,7 +21,7 @@ var linkFunction = function(elt) {
    var tmpdiv = document.createElement("div");
    var link = window.location.href+"/"+elt.getAttribute("data-topic-id");
    tmpdiv.innerHTML = '<p style="font-size:8px;"><a href="'+link+'">Link:</a> '+link+'</p>';
-   elt.insertBefore(tmpdiv.childNodes[0], elt.childNodes[0]);
+   //elt.insertBefore(tmpdiv.childNodes[0], elt.childNodes[0]);
 };
 
 // insertion-query v1.0.3 (2016-01-20)
