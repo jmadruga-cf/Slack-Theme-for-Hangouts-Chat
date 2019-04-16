@@ -36,14 +36,14 @@
 
 /* Sidebar color */
 .X9KLPc {
-   background-color: #4d394b;
+   background-color: #093a89;
 }
 
 /* Sidebar elemtents bg color when hovering */
 .PL5Wwe:focus,
 .PL5Wwe:hover:not(.tuKyod),
 .tuKyod:hover .LoYJxb {
-   background-color: #3e313c;
+   background-color: #032151;
 }
 
 
@@ -74,12 +74,12 @@
 
 /* Sidebar search button hovering bg color */
 .GbZFNe:focus, .GbZFNe:hover {
-   background-color: #3e313c;
+   background-color: #032151;
 }
 
 /* Search Menu bg color, shape and dimensions */
 .yoV6yd {
-   background-color: #4d394b;
+    background-color: #093a89;
    margin-top: -4px;
    width: 100%;
    border-radius: 0px;
@@ -114,7 +114,7 @@
 
 /* Top left corner section (with title) background color */
 .Riuhhf {
-   background-color: #4d394b;
+   background-color: #093a89;
 }
 
 /* Chat top left logo text color */
