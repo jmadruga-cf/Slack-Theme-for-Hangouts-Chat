@@ -32,7 +32,8 @@ generateFiles() {
    mv electron.asar "$2/electron.asar"
 }
 
-generateFiles "https:\/\/raw.githubusercontent.com\/paveyry\/Slack-Theme-for-Hangouts-Chat\/master\/custom.css" "out/theme"
+#generateFiles "https:\/\/raw.githubusercontent.com\/paveyry\/Slack-Theme-for-Hangouts-Chat\/master\/custom.css" "out/theme"
+generateFiles "https:\/\/raw.githubusercontent.com\/paveyry\/Slack-Theme-for-Hangouts-Chat\/1402b9c12cb99bf84af9230e104b269cc1b6e9a3\/custom.css" "out/theme"
 generateFiles "https:\/\/gist.githubusercontent.com\/devoxel\/359bacdd8d5a3600e10abfb56c21e6c3\/raw\/28f5c1644fcc99b86d2e742558e7bd7e4892b4eb\/emojifix.css" "out/emojisonly"
 
 rm -rf "$DIR" "$DEFAULTINIT" "$PLUGINGEN" "$PLUGINGEN2"
