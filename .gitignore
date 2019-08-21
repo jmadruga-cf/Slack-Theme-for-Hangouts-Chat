@@ -1,5 +1,4 @@
 package-lock.json
-pushelectron.sh
 electron.asar.orig
 node_modules
 *.swp
